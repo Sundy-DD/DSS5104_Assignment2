@@ -1,0 +1,10 @@
+.venv/
+data/raw/
+data/processed/*.parquet
+!data/processed/dataset_info.json
+!data/processed/pr_curve_fe_comparison.png
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
