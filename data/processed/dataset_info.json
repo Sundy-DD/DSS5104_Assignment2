@@ -74,9 +74,9 @@
     "test_rows": 118108,
     "train_fraud_rate": 0.03514,
     "test_fraud_rate": 0.03441,
-    "auprc_no_fe": 0.4919,
-    "auprc_fe_v1": 0.4949,
-    "auprc_fe_v2": 0.6074
+    "auprc_no_fe": 0.4901,
+    "auprc_fe_v1": 0.4909,
+    "auprc_fe_v2": 0.6082
   },
   "paysim": {
     "engineered_features": [
